@@ -103,4 +103,5 @@ Example:
 bit32.replace(0x12345678, 0x87654321, 16, 8) == 0x12215678 -- (0x12|34|5678 with 0x876543|21| -> 0x12|21|5678)
 ```
 
+## Also, for those wordering about the bit64 functions: It's the same functions, but with the 64-bit limit and conventions instead!
 </details>
